@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactPlanets/static/css/main.7f73d6a2.css",
+    "main.js": "/reactPlanets/static/js/main.45e9937b.js",
+    "static/js/453.192c916a.chunk.js": "/reactPlanets/static/js/453.192c916a.chunk.js",
+    "static/media/mars.png": "/reactPlanets/static/media/mars.a14e4a78fd02c249268a.png",
+    "static/media/earth.png": "/reactPlanets/static/media/earth.9e2105587058093db690.png",
+    "static/media/venus.png": "/reactPlanets/static/media/venus.8952ebfea7876392f945.png",
+    "static/media/jupiter.png": "/reactPlanets/static/media/jupiter.e84142dac5c16309fa1f.png",
+    "static/media/uranos.png": "/reactPlanets/static/media/uranos.86d2c8a5a6509f2b1493.png",
+    "static/media/neptune.png": "/reactPlanets/static/media/neptune.dbc2880550094962ea80.png",
+    "static/media/saturn.png": "/reactPlanets/static/media/saturn.e9a109e356c87be8cf7e.png",
+    "static/media/mercury.png": "/reactPlanets/static/media/mercury.576536ac4ab58002afbe.png",
+    "index.html": "/reactPlanets/index.html",
+    "main.7f73d6a2.css.map": "/reactPlanets/static/css/main.7f73d6a2.css.map",
+    "main.45e9937b.js.map": "/reactPlanets/static/js/main.45e9937b.js.map",
+    "453.192c916a.chunk.js.map": "/reactPlanets/static/js/453.192c916a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f73d6a2.css",
+    "static/js/main.45e9937b.js"
+  ]
+}
